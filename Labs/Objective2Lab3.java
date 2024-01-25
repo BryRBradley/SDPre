@@ -3,10 +3,11 @@ public class Objective2Lab3 {
 
   int year = 1986;
   String month_Born = "August";
-  var weekend = false;
+  boolean weekend = false;
   System.out.println(year);
   System.out.println(month_Born);
   System.out.println(weekend);
 
   }
+
 }
